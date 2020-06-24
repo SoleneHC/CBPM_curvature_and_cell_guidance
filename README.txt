@@ -1,0 +1,1 @@
+This project runs the cell-based particle method (CBPM) solver to generate two figures from 'Modelling cell guidance and curvature control in evolving biological tissues'. There are to main.m files, Figure4_main.m and Figure6_main.m which generate Figures 4 and 6 from the paper repsectively. All other function files are called within the master CBPM.m function.
